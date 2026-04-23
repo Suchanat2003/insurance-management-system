@@ -13,4 +13,4 @@ Web-based insurance management system developed using PHP and MySQL.
 1. Install XAMPP
 2. Put project folder inside htdocs
 3. Import database
-4. Run http://localhost/insurance-app
+4. Run http://54.251.71.21/insurance-app
